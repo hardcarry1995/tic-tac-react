@@ -1,4 +1,11 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+### Tic-Tac Game
+How to run Local
+
+Clone the repository
+### `1. git clone git@github.com:gech4me/tic-tac-react.git`
+
+Get dependency 
+### `2. yarn install`
 
 ## Available Scripts
 
